@@ -1,0 +1,16 @@
+com\dbs\mortagageapplication\dto\CustomerDto.class
+com\dbs\mortagageapplication\repository\CustomerLoansRepository.class
+com\dbs\mortagageapplication\dto\CustomerLoansDto.class
+com\dbs\mortagageapplication\service\CustomerService.class
+com\dbs\mortagageapplication\repository\CustomerRepository.class
+com\dbs\mortagageapplication\controller\CustomerController.class
+com\dbs\mortagageapplication\MortagageapplicationApplication.class
+com\dbs\mortagageapplication\entity\Loans.class
+com\dbs\mortagageapplication\dto\CustomerResponseDto.class
+com\dbs\mortagageapplication\common\Converter.class
+com\dbs\mortagageapplication\entity\Property.class
+com\dbs\mortagageapplication\repository\LoansRepository.class
+com\dbs\mortagageapplication\entity\Customer.class
+com\dbs\mortagageapplication\dto\LoansDto.class
+com\dbs\mortagageapplication\entity\CustomerLoans.class
+com\dbs\mortagageapplication\config\SwaggerConfig.class
